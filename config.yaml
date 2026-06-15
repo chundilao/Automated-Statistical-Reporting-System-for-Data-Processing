@@ -1,0 +1,15 @@
+cbms_round: ''
+area_code:
+  - ""
+area_name:
+  - ""
+area: ""
+aggregation:
+  level: "barangay"
+  label: "Barangay"
+input_data_type: "rcdf"
+path:
+  input_data: ""
+  output: ""
+  script: ""
+
